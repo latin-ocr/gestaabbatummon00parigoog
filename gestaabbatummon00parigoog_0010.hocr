@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gestaabbatummon00parigoog_0010.png"; bbox 0 0 3038 5452; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 61 2078 1392 2306">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 61 2078 1392 2306">
+     <span class='ocr_line' id='line_1_1' title="bbox 61 2078 1392 2306; baseline 0.005 -31"><span class='ocrx_word' id='word_1_1' title='bbox 61 2078 243 2277; x_wconf 61' lang='lat' dir='ltr'><strong>&#39;cmm</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 281 2163 536 2276; x_wconf 69' lang='lat' dir='ltr'><strong>ABBATUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 572 2103 908 2278; x_wconf 63' lang='lat' dir='ltr'>MoNAs‘fflssss</span> <span class='ocrx_word' id='word_1_4' title='bbox 946 2125 1136 2279; x_wconf 60' lang='lat' dir='ltr'>sANow&#39;l</span> <span class='ocrx_word' id='word_1_5' title='bbox 1177 2168 1317 2281; x_wconf 69' lang='lat' dir='ltr'><strong>ALBA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1356 2173 1392 2306; x_wconf 86' lang='lat'><strong>1,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 277 2613 1173 2732">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 277 2613 1173 2732">
+     <span class='ocr_line' id='line_1_2' title="bbox 277 2613 1173 2732; baseline 0.004 -24"><span class='ocrx_word' id='word_1_7' title='bbox 277 2613 553 2708; x_wconf 82' lang='lat' dir='ltr'><strong>THOMA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 602 2618 1173 2732; x_wconf 83' lang='lat' dir='ltr'><strong>WALSINGHAM,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 357 2817 1075 3243">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 357 2817 1075 3243">
+     <span class='ocr_line' id='line_1_3' title="bbox 357 2817 1075 2917; baseline 0.008 -25"><span class='ocrx_word' id='word_1_9' title='bbox 357 2817 587 2895; x_wconf 74' lang='lat' dir='ltr'><strong>REGNANTE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 630 2819 821 2896; x_wconf 78' lang='lat' dir='ltr'>RICARDO</span> <span class='ocrx_word' id='word_1_11' title='bbox 865 2821 1075 2917; x_wconf 78' lang='lat' dir='ltr'><strong>SECUNDO,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 417 2998 1023 3069; baseline 0.003 -3"><span class='ocrx_word' id='word_1_12' title='bbox 417 2998 573 3067; x_wconf 76' lang='lat' dir='ltr'>EJUSDEM</span> <span class='ocrx_word' id='word_1_13' title='bbox 596 2999 769 3068; x_wconf 70' lang='lat' dir='ltr'>Ecofflsffl</span> <span class='ocrx_word' id='word_1_14' title='bbox 793 3000 1023 3069; x_wconf 73' lang='lat' dir='ltr'>PRAEOENTORE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 628 3174 822 3243; baseline -0.005 0"><span class='ocrx_word' id='word_1_15' title='bbox 628 3174 822 3243; x_wconf 63' lang='lat' dir='ltr'><strong>comm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1524 5452">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1524 5452">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1524 5452; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1524 5452; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
